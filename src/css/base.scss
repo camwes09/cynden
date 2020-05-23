@@ -1,0 +1,21 @@
+
+
+html {
+  font-size: 62.5%;
+  padding: rem-calc(20);
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  color: #4b4b4b;
+  font-family: 'Open Sans', sans-serif;
+}
